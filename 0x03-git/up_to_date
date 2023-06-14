@@ -1,1 +1,1 @@
-update
+git pull
